@@ -1,5 +1,5 @@
 mountpoints:
   /: 
-    url: https://author-p149891-e1546481.adobeaemcloud.com/bin/franklin.delivery/aem-showcase/securbank/main
+    url: https://author-p194952-e2026230.adobeaemcloud.com/bin/franklin.delivery/chrissands/securbank/main
     type: markup
     suffix: ".html?wcmmode=disabled"
